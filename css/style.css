@@ -1,0 +1,89 @@
+body{
+    background-color: #f0f0ed;
+}
+.navbar{
+    background-color: #2d3538;
+    height: 60px;
+    
+}
+
+.navbar .logo{
+    text-shadow: none;
+    color: #8b8d8f;
+    font-size: 28px;
+    margin-left: 40px;
+    padding-top: 20px;
+    position: absolute;
+}
+
+.navbar .logo:hover{
+    text-decoration: none;
+    color: #e1e1e1;
+}
+
+.navbar i{
+    font-size: 30px;
+    color: #fff;
+    margin-top: 14px;
+    color: #afd2e4;
+}
+
+.center{
+    text-align: center;
+    height: 50px;
+    margin-top: 10px;
+}
+
+.center div{
+    display: inline;
+}
+
+
+div .text{
+    font-size: 16px;
+    color: #8b8d8f;
+    margin-right: 10px;
+}
+
+.box{
+    margin-top: 100px;
+    background-color: #fff;
+    width: 600px;
+    border: 1px solid #e1e1e1;
+    
+    -webkit-box-shadow: 0px 20px 40px -20px #000;
+    box-shadow: 0px 20px 40px -20px #000;
+}
+
+.box .heading{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 35px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #eee;
+    font-size: 23px;
+    color: #99d5ef;
+}
+
+label{
+    margin-top: 20px;
+}
+
+input[type="text"], input[type="password"]{
+    background-color: #eee;
+    border: none;
+    height: 25px;
+    margin-top: 20px;
+}
+
+input[type="text"]:focus, input[type="password"]:focus{
+    background-color: #fff;
+}
+
+button[type="submit"], button[type="reset"]{
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+
+
