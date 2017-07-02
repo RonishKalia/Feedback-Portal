@@ -1,0 +1,1 @@
+It was developed as a part of our 3rd semester database coursework project. In our college we had an offline way for students to give feedback about our professors. With this we intend we take it online providing a more effective way for the process to happen.
